@@ -35,7 +35,7 @@ gutendex-data-transform/
 ├── .gitignore              # Ignore rules for Git
 ├── LICENSE                 # MIT License
 ├── README.md               # Project overview and instructions
-└── requirements.txt        # Python dependencies
+└── environment.yml        # Conda environment configuration
 
 ````
 
@@ -50,17 +50,11 @@ git clone https://github.com/your-username/gutendex-data-transform.git
 cd gutendex-data-transform
 ````
 
-2. Create and activate a Python virtual environment:
+2. Create and activate a Conda environment:
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate gutendex-data-transform
 ```
 
 ---
