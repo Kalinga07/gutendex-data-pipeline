@@ -1,5 +1,3 @@
-Got it! Here’s a polished, full-featured, and visually structured **README.md** for your `gutendex-data-transform` repo with all key info included:
-
 ```markdown
 # 📚 gutendex-data-transform
 
