@@ -1,4 +1,3 @@
-```markdown
 # 📚 gutendex-data-transform
 
 > A PySpark-based data transformation pipeline that pulls and processes book data from the Gutendex API.
@@ -27,7 +26,6 @@ This repository serves as a foundational step towards building a full ETL pipeli
 ## 📁 Repository Structure
 
 ```
-
 gutendex-data-transform/
 │
 ├── data/                   # Placeholder for raw and transformed data
@@ -104,20 +102,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-**Your Name**
-Email: [your-email@example.com](mailto:your-email@example.com)
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Priyesh Gupta**  
+Email: [priyeshgupta83@gmail.com](mailto:priyeshgupta83@gmail.com)  
+GitHub: [https://github.com/Kalinga07](https://github.com/Kalinga07)
 
 ---
 
 ✨ *Happy transforming!*
 
-```
-
----
-
-Just replace:
-
-- `Kalinga07 with your GitHub handle  
-- `Your Name` and `priyeshgupta83@gmail.com` with your info  
-```
